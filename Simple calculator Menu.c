@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>// without global varaible 
 int sum(int a,int b)
 {
     int sum=a+b;
