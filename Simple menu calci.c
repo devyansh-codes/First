@@ -1,4 +1,4 @@
-#include<stdio.h> //global variable 
+#include<stdio.h> //global variable and switch case
 int result;
 int sum(int a,int b)
 {
