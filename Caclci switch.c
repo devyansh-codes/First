@@ -28,7 +28,7 @@ break;
 case 6:
 printf("Divison with denominator= %d",b/a);
 break;
-deafult:
+default:
 printf("Error");
 }
 }
